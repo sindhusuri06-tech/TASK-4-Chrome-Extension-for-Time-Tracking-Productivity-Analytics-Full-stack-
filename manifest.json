@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Time Tracker Extension",
+  "version": "1.0",
+  "description": "Tracks time spent on websites",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
